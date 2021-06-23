@@ -2,6 +2,7 @@ title: An Awesome Learning Path Test
 description: Testing how to create a learning path.
 steps:
   - course: githubtraining/introduction-to-github
+    title: Some title?
     description: The first step in your course
   - link: 'https://lab.github.com'
     title: Check out Learning Lab for more courses!
